@@ -7,8 +7,7 @@
 - ✏️ This is my blog:[Cobra's blog][http://www.chiza.top]
 - 😄 Read more about my CSDN: [here][https://blog.csdn.net/chiza2596?type=blog]
 ![](https://github-readme-stats.vercel.app/api?username=xla0chen&show_icons=true&theme=transparent)
-
-![](https://github-readme-stats.vercel.app/api?username=xla0chen&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xla0chen&theme=dark&layout=compact)
 
 
 
