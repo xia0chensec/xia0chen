@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Python.
 - 📫 How to reach me: 2448244702@qq.com
 - ✏️ This is my blog:[Cobra's blog][http://www.chiza.top]
 - 😄 Read more about my CSDN: [here][https://blog.csdn.net/chiza2596?type=blog]
